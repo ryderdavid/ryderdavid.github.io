@@ -10,10 +10,10 @@ Bachelor of Arts, Cum Laude: Political Science / Russian & Slavic Studies, Gradu
 - Study Abroad: Vladimir, Russia; Dobro Slovo National Slavic Honor Society.
 
 ### Projects (complete and underway)
-- Developed a nonprofit organization program management/CRM database for PostgreSQL including full comprehensive business use case analysis, modeling, schema implementation, stored procedures and triggers, and queries. Under further development to support new functionality and to inform a vendor software CRM implementation project at my employer. GitHub: https://github.com/ryderdavid/nonprofit_prog_mgmt_crm  
-- Composed a geospatial analysis in R to support recruiting efforts of a high school in the South Bronx, New York City, employing tidyverse, R Spatial, ggplot2, R Markdown, and US and NYC open datasets.   
-- Wrote a small Python command line program collecting expenses among roommates from a spreadsheet, and provides instructions for repayment. Employs object-oriented programming techniques and the pandas analysis package. GitHub: https://github.com/ryderdavid/expenses_tracker  
-- Developing a reproducible R Markdown report that digests federal award data from https://foreignassistance.gov, to produce snapshot competitor analyses by donor agencies, country, and year, eventually turning this into a Shiny interactive web dashboard.
+- Developed a [nonprofit organization program management/CRM database for PostgreSQL](https://github.com/ryderdavid/nonprofit_prog_mgmt_crm) including full comprehensive business use case analysis, modeling, schema implementation, stored procedures and triggers, and queries. Under further development to support new functionality and to inform a vendor software CRM implementation project at my employer.    
+- Composed a [geospatial analysis in R to support recruiting efforts of a high school in the South Bronx, New York City](https://github.com/ryderdavid/nyc_school_recruitment), employing tidyverse, R Spatial, ggplot2, R Markdown, and US and NYC open datasets.   
+- [Wrote a small Python command line program collecting expenses](https://github.com/ryderdavid/expenses_tracker) among roommates from a spreadsheet, and provides instructions for repayment. Employs object-oriented programming techniques and the pandas analysis package.  
+- Developing a reproducible R Markdown report that digests federal award data from [https://foreignassistance.gov](https://foreignassistance.gov), to produce snapshot competitor analyses by donor agencies, country, and year, eventually turning this into a Shiny interactive web dashboard.
 
 ### Skils, Tools, and Languages  
 - R, Python, PostgreSQL, GitHub, Trello/Kanbans, G Suite, Trello, PGP, Signal, Windows, macOS, and Linux command line.  
