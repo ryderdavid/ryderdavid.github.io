@@ -1,31 +1,33 @@
-## This can be your internal website page / project page
+## About my work
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Resume
+[Current resume available here](/docs/resume.html)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+---
+### Projects 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+[CRM For Nonprofit Development Program Management](https://github.com/ryderdavid/nonprofit_prog_mgmt_crm)  
+Developed a nonprofit organization program management/CRM database for PostgreSQL including full comprehensive business use case analysis, modeling, schema implementation, stored procedures and triggers, and queries. Under further development to support new functionality and to inform a vendor software CRM implementation project at my employer.  
+<img src="images/rdbms_crm_erd.png?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+---
+[Geospatial Analysis for Bronx High School Recruitment](https://github.com/ryderdavid/nyc_school_recruitment)  
+A geospatial analytical report in R to support recruiting efforts of a high school in the South Bronx, New York City, employing tidyverse, R Spatial, ggplot2, R Markdown, and US and NYC open datasets.  
+<img src="images/r_school_recruitment.png?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+---
+[Python Expenses Tracker](https://github.com/ryderdavid/expenses_tracker)  
+Small Python command line program collecting expenses among roommates from a spreadsheet, and provides instructions for repayment. Employs object-oriented programming techniques and the pandas analysis package.  
+<img src="images/python.png?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
