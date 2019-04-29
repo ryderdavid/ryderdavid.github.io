@@ -1,12 +1,8 @@
-## About my work
+
+## [Resume](/docs/resume.html)
 
 ---
-
-### Resume
-[Current resume available here](/docs/resume.html)
-
----
-### Projects 
+## Projects 
 
 [CRM For Nonprofit Development Program Management](https://github.com/ryderdavid/nonprofit_prog_mgmt_crm)  
 Developed a nonprofit organization program management/CRM database for PostgreSQL including full comprehensive business use case analysis, modeling, schema implementation, stored procedures and triggers, and queries. Under further development to support new functionality and to inform a vendor software CRM implementation project at my employer.  
