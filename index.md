@@ -8,17 +8,17 @@
 <img src="images/rdbms_crm_erd.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geospatial Analysis for Bronx High School Recruitment](https://github.com/ryderdavid/nyc_school_recruitment)
+<img src="images/r_school_recruitment.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Python Expenses Tracker](https://github.com/ryderdavid/expenses_tracker)
+<img src="images/python.png?raw=true"/>
 
 ---
 
 ### Resume
-Current resume available here
+[Current resume available here](/docs/resume.html)
 
 ---
 
