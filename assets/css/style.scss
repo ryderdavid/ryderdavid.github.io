@@ -2,5 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-a:hover {font-weight: normal;
-		 text-decoration: underline;}
+a:link  {text-decoration: bold;}
+a:hover {text-decoration: none;
+		 text-shadow: 0 0 .65px #333, 0 0 .65px #333;}
