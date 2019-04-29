@@ -43,6 +43,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
+  text-shadow: 0 0 .65px #333, 0 0 .65px #333;
 //  font-weight: bold;
 }
 
@@ -150,6 +151,7 @@ ul.downloads {
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
+  text-shadow: 0 0 .65px #333, 0 0 .65px #333;
 //  font-weight:bold;
 }
 
