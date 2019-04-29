@@ -1,4 +1,4 @@
-# Ryder David Cobean
+# [Ryder David Cobean](../index.html)
 ## Education, Skills, and Portfolio
 **Boston University, Boston, MA**  
 Master of Science, Computer Information Systems (Spring 2018 - Summer 2020)
