@@ -1,11 +1,11 @@
-## Portfolio
+## About my work
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CRM For Nonprofit Development Program Management](https://github.com/ryderdavid/nonprofit_prog_mgmt_crm)
+<img src="images/rdbms_crm_erd.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,13 +17,8 @@
 
 ---
 
-### Projects:
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Resume
+Current resume available here
 
 ---
 
