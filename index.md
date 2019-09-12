@@ -11,6 +11,7 @@ Developed a nonprofit organization program management/CRM database for PostgreSQ
 ---
 <a href="https://github.com/ryderdavid/nyc_school_recruitment" onclick="captureOutboundLink('http://www.github.com/ryderdavid/nyc_school_recruitment'); return false;">Geospatial Analysis for Bronx High School Recruitment (GitHub)</a>
 <!--[Geospatial Analysis for Bronx High School Recruitment (GitHub)](https://github.com/ryderdavid/nyc_school_recruitment)  -->
+  
 A geospatial analytical report in R to support recruiting efforts of a high school in the South Bronx, New York City, employing tidyverse, R Spatial, ggplot2, R Markdown, and US and NYC open datasets. [A render of one excerpt is hosted on RPubs](https://rpubs.com/ryderdavid/492165).
 <img src="images/r_school_recruitment.png?raw=true"/>
 
